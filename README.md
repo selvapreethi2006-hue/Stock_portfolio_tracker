@@ -1,2 +1,2 @@
-# Stock_portfolio_tracker
-TASK 2
+# CodeAlpha_task2
+CodeAlpha_TASK 2
